@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"start": "node"
+	},
+	"devDependencies": {
+		"node": "^20.14.0"
+	},
+	"dependencies": {
+		"watch-cli": "^0.2.3"
+	}
+}
