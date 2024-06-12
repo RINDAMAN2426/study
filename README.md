@@ -5,3 +5,6 @@
 1. Exhaustive Search
   - [baby_gin_game.js](./baby_gin_game.js)
   - [exhaustive_search.js](./exhaustive_search.js)
+
+2. Greedy
+- [min_coins.js]('./min_coins.js)
